@@ -15,7 +15,7 @@ public class Main_Merge {
      */
     public static void main(String[] args) {
         
-        int[] arreglo = {67, 27, 5, 4, 99, 6, 1, 45};
+        int[] arreglo = {67, 27, 5, 4, 99, 6, 1, 45,2,7,7,9,9,8};
 
         System.out.println("Arreglo original:");
         Imprimir.imprimir(arreglo, 0);
